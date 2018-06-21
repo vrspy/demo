@@ -1,0 +1,45 @@
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="moorgen.com" resolutions="1x" timestamp="1529545519019">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4009671366" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
+    <file name="museutils.js" crc="17924269" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
+    <file name="museconfig.js" crc="144853533" ref="phone>index:index"/>
+    <file name="webpro.js" crc="416662029" ref="phone>index"/>
+    <file name="musewpslideshow.js" crc="4034900702" ref="phone>index"/>
+    <file name="jquery.museoverlay.js" crc="528673841" ref="phone>index"/>
+    <file name="touchswipe.js" crc="432264157" ref="phone>index"/>
+    <file name="require.js" crc="3861931657" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="0.jpg" crc="3967486174" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2.jpg" crc="521170065" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3.jpg" crc="176798113" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4.jpg" crc="3765453807" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5.jpg" crc="3898383604" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1.jpg" crc="366120853" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="433412024" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="507217043" seo="true" mt="1529545506578" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4013875887" seo="true" mt="1528359325987" redirect="false"/>
+</manifest>
